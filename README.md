@@ -27,3 +27,4 @@ To solve DSA problems consistently, strengthen my programming fundamentals, and 
 
 | Median of Two Sorted Arrays | 4 | Hard |
 | Longest Palindromic Substring | 5 | Medium |
+| Zigzag Conversion | 6 | Medium |
