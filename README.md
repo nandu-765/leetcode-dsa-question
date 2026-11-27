@@ -25,3 +25,4 @@ To solve DSA problems consistently, strengthen my programming fundamentals, and 
 
 *Learning, practising and improving one problem at a time!* 🌱
 
+| Median of Two Sorted Arrays | 4 | Hard |
